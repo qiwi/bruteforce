@@ -1,0 +1,2 @@
+class DbConnectException(BaseException):
+    pass

@@ -1,0 +1,2 @@
+class HashcatException(BaseException):
+    pass

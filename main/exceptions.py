@@ -1,0 +1,2 @@
+class HashNotValidException(BaseException):
+    pass

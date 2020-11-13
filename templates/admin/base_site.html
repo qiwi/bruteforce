@@ -1,0 +1,14 @@
+{% extends "admin/base.html" %}
+{% load static %}
+
+{% block title %}{{ title }} | {{ site_title|default:_('Django site admin') }}{% endblock %}
+
+{% block branding %}
+<h1 id="site-name">
+    <a href="{% url 'admin:index' %}">ADMIN</a> ●
+    <a href="/rabbitmq">RABBITMQ</a> ●
+    <a href="/flower">FLOWER</a>
+</h1>
+{% endblock %}
+
+{% block nav-global %}{% endblock %}
