@@ -113,3 +113,6 @@ You can see results in "Checked hashes" page
 Magnifier - counts errors and words in dictionaries
 
 Change checker - check hash relevance in databases
+
+## License
+Distributed under the MIT License.
