@@ -20,7 +20,7 @@ A tool used to test the vulnerability of database passwords. [Hashcat](https://h
 ```bash
 cd BASE_DIR
 git clone https://github.com/qiwi/bruteforce.git
-cd bruteforce-opensource
+cd bruteforce
 python3.7 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
