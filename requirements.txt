@@ -11,7 +11,7 @@ django-timezone-field==4.0
 dnspython3==1.15.0
 flower==0.9.5
 future==0.18.2
-greenlet==0.4.16
+greenlet==0.4.17
 gunicorn==20.0.4
 idna==2.10
 ipython==7.16.1
