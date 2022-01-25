@@ -2,7 +2,7 @@ amqp==2.6.1
 asgiref==3.2.10
 billiard==3.6.3.0
 celery==5.2.2
-certifi==2020.6.20
+certifi==2020.12.5
 chardet==3.0.4
 cx_Oracle==8.0.0
 Django>=3.1.8
